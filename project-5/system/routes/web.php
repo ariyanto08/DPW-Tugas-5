@@ -26,13 +26,13 @@ Route::get('signup', function () {
 
 // login
 Route::get('login', [AuthController::class,'showLogin'])->name('login');
-Route::post('login', [AuthController::class,'processLogin']); 
+Route::post('login', [AuthController::class,'processLogin']);
 
 //logout
 Route::get('logout', [AuthController::class,'Logout']);
 
 //admin
-Route::get('base', [HomeController::class,'showBase']); 
+Route::get('base', [HomeController::class,'showBase']);
 Route::get('dashboard', [HomeController::class,'showDashboard']);
 Route::get('master-data/categories', [HomeController::class,'showCategories']);
 

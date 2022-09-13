@@ -78,8 +78,8 @@
 
 			<div class="wrap-menu-desktop how-shadow1">
 				<nav class="limiter-menu-desktop container">
-					
-					<!-- Logo desktop -->		
+
+					<!-- Logo desktop -->
 					<a href="#" class="logo">
 						<img src="{{ url('public') }}/assets/images/icons/logo-01.png" alt="IMG-LOGO">
 					</a>
@@ -107,7 +107,7 @@
 								<a href="{{ url('contact') }}">Contact</a>
 							</li>
 						</ul>
-					</div>	
+					</div>
 
 					<!-- Icon header -->
 					<div class="wrap-icon-header flex-w flex-r-m">
@@ -124,7 +124,7 @@
 						</a>
 					</div>
 				</nav>
-			</div>	
+			</div>
 		</div>
 
 		<!-- Header Mobile -->
@@ -193,7 +193,7 @@
 						</div>
 					</div>
 				</div>
-				
+
 				<div class="col-md-6 col-lg-5 p-b-30">
 					<div class="p-r-50 p-t-5 p-lr-0-lg">
 						<h4 class="mtext-105 cl2 js-name-detail p-b-14">
@@ -207,7 +207,7 @@
 						<p class="stext-102 cl3 p-t-23">
 							{{$product->deskripsi}}
 						</p>
-						
+
 						<!--  -->
 						<div class="p-t-33">
 							<div class="flex-w flex-r-m p-b-10">
@@ -266,7 +266,7 @@
 										Add to cart
 									</button>
 								</div>
-							</div>	
+							</div>
 						</div>
 
 						<!--  -->
@@ -412,7 +412,7 @@
 												</p>
 											</div>
 										</div>
-										
+
 										<!-- Add review -->
 										<form class="w-full">
 											<h5 class="mtext-108 cl2 p-b-7">
@@ -667,7 +667,7 @@
 							<div class="block2-txt flex-w flex-t p-t-14">
 								<div class="block2-txt-child1 flex-col-l ">
 									<a href="product-detail.html" class="stext-104 cl4 hov-cl1 trans-04 js-name-b2 p-b-6">
-										Vintage Inspired Classic 
+										Vintage Inspired Classic
 									</a>
 
 									<p class="stext-105 cl3">
